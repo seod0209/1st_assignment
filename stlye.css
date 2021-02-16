@@ -1,0 +1,46 @@
+ .title{
+        text-align: center;
+        font-size: 50px;
+        font-weight: bold;
+      }
+
+  .subtitle{
+        text-align: center;
+        font-size: 25px;
+        color: gray;
+      }
+
+  .main{
+        width: 800px;
+        margin: 0px auto;
+        margin-top: 60px;
+        
+      }
+
+  .box{
+display: flex;
+ }
+  .box-item1{
+  text-align: center;
+ width: 100px;
+ height: 100px;
+ border: 1px solid white;
+ margin: 20px;
+ border-radius: 4px;
+ font-size: 1.5rem;
+ color: white;
+ background-color: rgb(33, 86, 104);
+
+  }
+
+   .box-item2{
+  text-align: center;
+ width: 100px;
+ height: 100px;
+ border: 1px solid rgb(33, 86, 104);
+ margin: 20px;
+ border-radius: 4px;
+ font-size: 1.5rem;
+ color: rgb(33, 86, 104);
+ background-color: white;
+   }
